@@ -6487,6 +6487,12 @@ svg-icon {
   max-height: 200px;
   overflow-y: auto; }
 
+.modal-file-selector-modal {
+  min-width: 98vw; }
+  .modal-file-selector-modal > .modal-content {
+    min-height: 95vh;
+    max-height: 95vh; }
+
 /*
  * Copyright 2016 resin.io
  *
